@@ -6,9 +6,9 @@ Project module repository for training and practice purposes
 ## Usage guide
 
 Basicly this repository contains 3 SUb level : 
-- [Beginner]()
-- [Intermediate]()
-- [Advance]()
+- [Beginner](https://github.com/cyberhax/ProjectModule/tree/master/Beginner)
+- [Intermediate](https://github.com/cyberhax/ProjectModule/tree/master/Intermediate)
+- [Advance](https://github.com/cyberhax/ProjectModule/tree/master/Advance)
 
 ## How to contribute
 
