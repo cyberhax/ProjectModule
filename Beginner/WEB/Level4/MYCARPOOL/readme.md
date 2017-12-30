@@ -45,8 +45,6 @@ Using car sharing, people that travel a certain route (driver) can offer to give
 ## Notes
 ---
 - Time always reflects full hours only (no minutes)
-- All data for users needs to be entered into the database directly. You do not need to provide a user interface for that. For assessment the following two users will be used to login: “user1” with “pass1”, “user2” with “pass2”
-- For the routes you can use the test data that will be provided or create your own.
 
 ## Requirement
 ---
