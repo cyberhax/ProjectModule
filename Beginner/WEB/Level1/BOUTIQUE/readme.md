@@ -12,7 +12,7 @@ You as a web developer has been appointed to develop a responsive website based 
 
 ## Description of project
 ---
-Your task is to convert the provided jpeg design (web.jpg) into HTML 5 / CSS page layout.
+Your task is to convert the provided jpeg design (web.jpg - web5.jpg) into HTML 5 / CSS page layout.
 
 ##### Instruction
 
