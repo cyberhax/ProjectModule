@@ -1,6 +1,7 @@
 # Module 
 
 Title : Easy QR scanner
+
 Version : 1
 
 ## Introduction
