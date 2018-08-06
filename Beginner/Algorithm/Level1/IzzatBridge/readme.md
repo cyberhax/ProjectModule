@@ -30,10 +30,10 @@ Each person will take 'x' amount time to cross the bridge. Please write an algor
 
 Example:
 > Input:
-> A	1min
-> B	2min
-> C	5min
-> D	10min
+> 1.	1min
+> 2.	2min
+> 3.	5min
+> 4.	10min
 
 Output:
 > The people's turn is:
