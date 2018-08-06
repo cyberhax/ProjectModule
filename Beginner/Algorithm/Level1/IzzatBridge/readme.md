@@ -29,7 +29,7 @@ Trip finishes since all people have successfully cross the bridge
 Each person will take 'x' amount time to cross the bridge. Please write an algorithm that takes each person's name and walking time, and output the person trip turn and total trip time with the minimum total trip time as possible.
 
 Example:
-> Input:
+Input:
 > 1.	1min
 > 2.	2min
 > 3.	5min
