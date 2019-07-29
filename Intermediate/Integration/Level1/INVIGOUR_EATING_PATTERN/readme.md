@@ -1,6 +1,6 @@
 # Module 
 
-Title : Simple API Intergration
+Title : Hey Where To Eat (HWTE) -> Simple API Intergration
 
 Version : 1
 
